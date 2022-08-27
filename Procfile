@@ -1,1 +1,1 @@
-worket: python boc.py
+worket: python main.py
